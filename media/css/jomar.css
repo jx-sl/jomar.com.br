@@ -1,0 +1,135 @@
+/****************************
+*	Jx Solucoes				*
+*	www.jxsolucoes.com.br	*
+*	julio.fg@live.de		*
+*	+55 (51) 9665 5842		*
+****************************/
+body, *{font-family:Open Sans;}
+.clear{
+	height:1px;
+	clear:both;
+	display:block;
+	margin-top:-1px;
+	overflow:hidden;
+}
+nav .container{height: 30px;}
+nav.menuNormal{
+	margin-bottom: 100px;
+	box-shadow:3px 3px 6px #666;
+}
+nav.menuMenor{
+	margin-bottom: 60px;
+	box-shadow:3px 3px 6px #666;
+}
+nav.menuMobile{
+	margin-bottom: 60px;
+}
+
+nav .container ul.nav{
+	height: 30px;
+}
+nav .container ul.nav li a{padding: 5px}
+nav .container ul.nav li.active a{color:#F1D216; text-shadow: 2px 0 0 #4B8551, -2px 0 0 #4B8551, 0 2px 0 #4B8551, 0 -2px 0 #4B8551, 1px 1px #4B8551, -1px -1px 0 #4B8551, 1px -1px 0 #4B8551, -1px 1px 0 #4B8551;}
+nav .container ul.nav li a:hover{background:#4B8551;color:#F1D216;}
+#logo h1.normal,
+#logo h1.normal a{
+	background: url(../img/logo_jomar.png) no-repeat top center;
+	margin: auto;
+	width: 420px;
+	height: 141px;
+	float: none;
+}
+#logo h1.menor,
+#logo h1.menor a{
+	background: url(../img/logo_jomar_small.png) no-repeat top center;
+	margin: auto;
+	width: 250px;
+	height: 85px;
+	float: none;
+}
+#logo h1.mobile,
+#logo h1.mobile a{
+	background: url(../img/logo_jomar_small.png) no-repeat top center;
+	margin-left: 0;
+	width: 250px;
+	height: 85px;
+	float: left;
+}
+
+#carousel.carousel{
+	z-index: -1;
+	top:-100px;
+	margin-bottom:-105px;
+}
+h2, h3{margin-left: 14px}
+
+header {
+	position: absolute;
+	top: 0;
+	z-index: 1000;
+}
+#logo h1,
+#logo h1 a{
+  display:block;
+  text-indent:-9000px;
+  margin:auto;
+  padding:0;
+}
+nav a{
+  font-size: 16px;
+  font-style: italic;
+  font-weight: bold;
+  color:#4B8551;
+}
+.nav-mobile li{border-bottom:1px solid #fff}
+.nav-mobile li.active a{background:#4B8556;color:#fff}
+.nav-mobile li a:hover{background:#4B8551;color:#fff}
+button.btn-toggle {
+	float: right;
+	position: absolute;
+	right: 10px;
+	top: 10px;
+	background-color:#4B8551;
+	border: rgb(154, 205, 50);
+	border-radius: 3px;
+	box-shadow: rgb(119, 119, 119) 2px 3px 7px;
+	padding: 8px 2px;
+	color: rgb(255, 255, 255);
+	display: none;
+	z-index:10000;
+}
+button.btn-toggle:hover{
+	border:1px solid #ddd;
+	color:#ccc;
+	padding: 6px 0px;
+}
+
+.icon{
+	background: url(../img/sprite.png);
+	display:block;
+	width: 110px;
+	height: 110px;
+	margin: auto;
+}
+.icon.pointer{background-position: center 0}
+.icon.phone{background-position: center 222px}
+.icon.email{background-position: center 115px}
+.textLeft{text-align: left}
+.textRight{text-align: right}
+.bgYellow{background: #F1D216}
+
+.clients{
+	padding-bottom: 20px;
+}
+.clients .col-md-3{margin-bottom:10px}
+.contact{
+	background: #4B8551;
+	padding-bottom: 20px;
+	color:#FFF;
+	font-size: 16px;
+	font-weight: bold;
+}
+.contact div{
+	text-align: center;
+}
+footer{padding:10px 0 25px 0}
