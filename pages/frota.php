@@ -9,29 +9,28 @@
 			Etiam aliquam convallis nisl, a adipiscing orci tristique at.
 			Duis sagittis ultrices orci, rhoncus tincidunt massa pharetra et.</p>
 			<article>
-				<ul>
-					<li>
-						<figure>
-							<img src="">
-						</figure>
-						<ul>
-							<li></li>
-							<li></li>
-							<li></li>
-							<li></li>
-						</ul>
-					</li>
-					<li>
-						<h4>Mercedes XXX - Ano 2010</h4>
-						<ul>
-							<li>- 24 poltronas</li>
-							<li>- DVD</li>
-							<li>- Ar Condicionado</li>
-							<li>- Televisao</li>
-							<li>- Vidros Colados</li>
-						</ul>
-					</li>
-				</ul>
+				<div class="fleet-images col-md-6">
+					<a class="thumbnail fancybox" href="media/img/frota/bus.jpg">
+						<img src="media/img/frota/thumbs/bus.jpg">
+						<span class="fleet-zoom"></span>
+					</a>
+					<ul>
+						<li class="item-mini"><a class="thumbnail fancybox" href="media/img/frota/bus.jpg"><img src="media/img/frota/mini/bus.jpg"></a></li>
+						<li class="item-mini"><a class="thumbnail fancybox" href="media/img/frota/bus.jpg"><img src="media/img/frota/mini/bus.jpg"></a></li>
+						<li class="item-mini"><a class="thumbnail fancybox" href="media/img/frota/bus.jpg"><img src="media/img/frota/mini/bus.jpg"></a></li>
+						<li class="item-mini"><a class="thumbnail fancybox" href="media/img/frota/bus.jpg"><img src="media/img/frota/mini/bus.jpg"></a></li>
+					</ul>
+				</div>
+				<div class="fleet-data col-md-6">
+					<h4>Mercedes XXX - Ano 2010</h4>
+					<ul>
+						<li>24 poltronas</li>
+						<li>DVD</li>
+						<li>Ar Condicionado</li>
+						<li>Televisao</li>
+						<li>Vidros Colados</li>
+					</ul>
+				</div>
 			</article>
 		</div>
 		<div class="col-md-1"></div>
@@ -42,3 +41,4 @@
 		</div>
 	</div>
 </section>
+<script src="media/js/jquery.fancybox.js"></script>

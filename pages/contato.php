@@ -5,22 +5,37 @@
 	</div>
 	<div class="container">
 		<div class="col-md-7">
-			<p>A Jomar Turismo vel lectus quis ligula pulvinar fringilla.
-			Etiam aliquam convallis nisl, a adipiscing orci tristique at.
-			Duis sagittis ultrices orci, rhoncus tincidunt massa pharetra et.
-			Quisque et leo eget odio rhoncus rutrum sed ut elit.
-			Integer lectus augue, mattis sed faucibus et, pharetra non velit.
-			In bibendum ac felis vel volutpat. Curabitur quis ornare libero, et adipiscing dolor.
-			In ut dolor fringilla, tempor elit in, ultricies neque.
-			Vivamus commodo nunc in velit semper rutrum. Nulla vestibulum sodales libero et auctor.
-			Vivamus ac aliquet ante, iaculis hendrerit sem. Integer bibendum dolor non velit auctor pharetra.
-			Aenean suscipit velit quis quam ullamcorper, id pretium magna tincidunt.
-			Ruisque et leo eget odio rhoncus rutrum sed ut elit. Integer lectus augue, mattis sed faucibus et, pharetra non velit.
-			In bibendum ac felis vel volutpat. Curabitur quis ornare libero, et adipiscing dolor.
-			In ut dolor fringilla, tempor elit in, ultricies neque.
-			Vivamus commodo nunc in velit semper rutrum. Nulla vestibulum sodales libero et auctor.
-			Vivamus ac aliquet ante, iaculis hendrerit sem. Integer bibendum dolor non velit auctor pharetra.
-			Aenean suscipit velit quis quam ullamcorper, id pretium magna tincidunt.</p>
+		<p>Deixe sua duvida, comentario, sugestao ou critica utilizando o formulario abaixo que retornaremos o mais breve possivel.</p>
+			<form role="form">
+			  <div class="form-group">
+    			<div class="col-sm-12">
+    				<label class="sr-only" for="name">Nome</label>
+    				<input type="text" class="form-control" id="name" placeholder="Nome">
+    			</div>
+    			<div class="col-sm-6">
+	    			<label class="sr-only" for="phone">Telefone</label>
+				    <input type="text" class="form-control" id="phone" placeholder="Telefone">
+				</div>
+				<div class="col-sm-6">
+	    			<label class="sr-only" for="email">E-mail</label>
+				    <input type="text" class="form-control" id="email" placeholder="E-mail">
+				</div>
+    			<div class="col-sm-12">
+	    			<label class="sr-only" for="address">Endereco/Cidade</label>
+				    <input type="text" class="form-control col-md-12" id="address" placeholder="Endereco/Cidade">
+			    </div>
+    			<div class="col-sm-12">
+	    			<label class="sr-only" for="subject">Assunto</label>
+				    <input type="text" class="form-control col-md-12" id="subject" placeholder="Assunto">
+			    </div>
+    			<div class="col-sm-12">
+			    	<textarea class="form-control col-md-12" id="message" placeholder="Mensagem"></textarea>
+			    </div>
+    			<div class="col-sm-12 text-right">
+    				<button type="submit" class="btn btn-default">Enviar</button>
+    			</div>
+			  </div>			  
+			</form>
 		</div>
 		<div class="col-md-1"></div>
 		<div class="col-md-4 facebook-box">

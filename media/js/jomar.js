@@ -45,4 +45,11 @@ $(function(){
 		set.header();
 	});
 	set.menuActive();
+	if( $("body").attr("id")=="frota"){
+		$("a.fancybox").fancybox({
+			'overlayColor'	: 	'#222032',
+			'overlayShow'	:	true
+		});
+	}
+		
 });

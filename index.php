@@ -32,9 +32,9 @@
 	    <meta name="copyright" content="Copyright (c) 2014 Jx Solucoes" />
 	    <meta name="DC.creator.address" content="http://www.jxsolucoes.com.br" />
 	    <meta name="generator" content="jx solucoes" />
-	    <link rel="shortcut icon" type="image/x-icon" href="http://www.jomar.com.br/media/img/favicon.ico">
+	    <link rel="shortcut icon" type="image/x-icon" href="http://www.jomar.com.br/favicon.ico">
 	    
-	    <meta property="og:image" content="http://www.jomar.com.br/media/img/facebook.jpg" />
+	    <meta property="og:image" content="http://www.jomar.com.br/media/img/logo_jomar.png" />
 	    <meta property="og:url" content="http://www.jomar.com.br/"/>
 	    <meta property="og:title" content="Jomar"/>
 	    <meta property="og:description" content="Empresa de transportes e turismo."/>
