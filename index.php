@@ -4,7 +4,7 @@
 		<meta charset="utf-8" />
 	    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 	    <title>Jomar Turismo - Fretamento e Viagens</title>
-	    <base href="<?php $_SERVER['HTTP_HOST']=='localhost' ? print 'http://localhost/jomar.com.br/' : print 'http://192.168.1.100/jomar.com.br/' ?>">
+	    <base href="<?php $_SERVER['HTTP_HOST']=='localhost' ? print 'http://localhost/jomar.com.br/' : print 'http://www.jxsolucoes.com.br/jomar.com.br/' ?>">
 	    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 	    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 	    <meta http-equiv="pragma" content="no-cache" />
