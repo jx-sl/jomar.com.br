@@ -6,7 +6,8 @@
 	<div class="container">
 		<div class="col-md-7">
 		<p>Deixe sua duvida, comentario, sugestao ou critica utilizando o formulario abaixo que retornaremos o mais breve possivel.</p>
-			<form role="form">
+			<form role="form" action="includes/send.php" method="POST">
+			  <input type="hidden" name="page" value="contato">
 			  <div class="form-group">
     			<div class="col-sm-12">
     				<label class="sr-only" for="name">Nome</label>

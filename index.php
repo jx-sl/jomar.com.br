@@ -86,7 +86,7 @@
 		
 		
     	<?php
-    		$paginasValidas = array("inicio", "empresa", "servicos", "frota", "orcamento", "contato", "erro");
+    		$paginasValidas = array("inicio", "empresa", "servicos", "frota", "orcamento", "contato", "erro", "erro_envio");
     		$pageId="erro";
 	    	if(isset($_GET["pg"])){
 				$pg = $_GET["pg"];
@@ -148,11 +148,11 @@
 	    </section>
 	    <footer>
 	    	<div class="container">
-	        	<div class="col-md-6 text-left copyright">
+	        	<div class="col-md-6 text-left">
 	        		Copyright © 2014  Jomar Turismo. Todos os direitos reservados
 	        	</div>
-	        	<div class="col-md-6 text-right jx">
-	        		Desenvolvido por <a href="http://www.jxsolucoes.com.br">Jx Soluções</a>
+	        	<div class="col-md-6 text-right">
+	        		Desenvolvido por <a href="http://www.liftdigital.com.br">Lift Digital</a>
 	        	</div>
 	    	</div>
 	    </footer>

@@ -5,22 +5,18 @@
 	</div>
 	<div class="container">
 		<div class="col-md-7">
-			<p>A Jomar Turismo vel lectus quis ligula pulvinar fringilla.
-			Etiam aliquam convallis nisl, a adipiscing orci tristique at.
-			Duis sagittis ultrices orci, rhoncus tincidunt massa pharetra et.
-			Quisque et leo eget odio rhoncus rutrum sed ut elit.
-			Integer lectus augue, mattis sed faucibus et, pharetra non velit.
-			In bibendum ac felis vel volutpat. Curabitur quis ornare libero, et adipiscing dolor.
-			In ut dolor fringilla, tempor elit in, ultricies neque.
-			Vivamus commodo nunc in velit semper rutrum. Nulla vestibulum sodales libero et auctor.
-			Vivamus ac aliquet ante, iaculis hendrerit sem. Integer bibendum dolor non velit auctor pharetra.
-			Aenean suscipit velit quis quam ullamcorper, id pretium magna tincidunt.
-			Ruisque et leo eget odio rhoncus rutrum sed ut elit. Integer lectus augue, mattis sed faucibus et, pharetra non velit.
-			In bibendum ac felis vel volutpat. Curabitur quis ornare libero, et adipiscing dolor.
-			In ut dolor fringilla, tempor elit in, ultricies neque.
-			Vivamus commodo nunc in velit semper rutrum. Nulla vestibulum sodales libero et auctor.
-			Vivamus ac aliquet ante, iaculis hendrerit sem. Integer bibendum dolor non velit auctor pharetra.
-			Aenean suscipit velit quis quam ullamcorper, id pretium magna tincidunt.</p>
+			<p>A Jomar Turismo iniciou suas atividades no ano de 1998,
+			quando João Alberto Weissheimer decidiu iniciar seu próprio empreendimento, após 20 anos de trabalho no ramo, como motorista.
+			A empresa surgiu junto à necessidade de transporte dos universitários da cidade de São Vendelino para UNISINOS,
+			conquistando assim seus primeiros clientes.</p>
+			<p>Com o passar dos anos foram ampliadas as linhas de transporte de estudantes,
+			passando a transportar alunos com destino a UCS – São Sebastião do Caí.</p>
+			<p>Com a segurança e eficiência características da empresa,
+			alcançamos a confiança de muitos clientes, e atualmente a Jomar Turismo é transportadora oficial de várias bandas do sul do país e
+			indústrias além da prestação de serviços a diversas prefeituras.</p>
+			<p>A empresa se destaca e também aposta fortemente no transporte turístico,
+			investindo em veículos modernos e sofisticados para melhor atender a todos com o conforto,
+			segurança e tranquilidade necessárias para uma viagem.</p>
 		</div>
 		<div class="col-md-1"></div>
 		<div class="col-md-4 facebook-box">

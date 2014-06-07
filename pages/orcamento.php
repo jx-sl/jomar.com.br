@@ -6,7 +6,8 @@
 	<div class="container">
 		<div class="col-md-7">
 		<p>Deixe sua duvida, comentario, sugestao ou critica utilizando o formulario abaixo que retornaremos o mais breve possivel.</p>
-			<form role="form">
+			<form role="form" action="includes/send.php" method="POST">
+			  <input type="hidden" name="page" value="orcamento">
 			  <div class="form-group">
     			<div class="col-sm-12">
     				<label class="sr-only" for="name">Nome</label>
@@ -61,7 +62,7 @@
 				    <input type="time" class="form-control" id="email" placeholder="Horario Retorno">
 				</div>
     			<div class="col-sm-12">
-			    	<textarea class="form-control col-md-12" id="message" placeholder="Observa;'oes/Detalhes"></textarea>
+			    	<textarea class="form-control col-md-12" id="message" placeholder="Observações/Detalhes"></textarea>
 			    </div>
     			<div class="col-sm-12 text-right">
     				<button type="submit" class="btn btn-default">Enviar</button>
